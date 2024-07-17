@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rugged-habitat-429717-d4",
+  "private_key_id": "0b28e0b6c0dc8ffbf11c320e37fbbad12135fb4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDABwLqiVtFZLhF\n41ynRoENvkyP48zpZqMicrDnWalLfuCOKxlWwEhEmhh/qY6lWOowWUQ4iEARIatR\ndyqoHsV7LJFuKj7fhA21mab81EVXuOlsdW151FiWpMbBQj3MPzlvq5RgLDf6kzjW\n02VRDZKJ3GdRYRQW1+WRFO2Ri2jXAPIvsMofK8WbSdfSEFncKw7cfZGGHXC3s4g4\npu7lWjji2S7zihsHeKRSm9O7Xk0SIfIVbpSyzGOuggJ2KjuIkJAozLyuDGQ+Csyp\nd77eNH2U49r86hsbP8z2Ob5n7cncjYBTUEEN0NfAqk3W0djnyC3/iWZ4iwJvWhtk\nBWxLXLGjAgMBAAECggEAAxkNDw8qN1As2rq2mM6kTfF0cuA1diHwWpkuZye6aHNz\nnJ3vpXIIAPcNTw9DZx+bOS50SNPbepo06phmBfi0UBUfg8Nk+bwiGycG0tLQgsRg\ntYQ4QOj2ZsUVFNTvEzinffRM3EiYNDHswfOHPE3XrsECXji5TrXVmUOl5pB1H4aJ\nS1z8QHkZm12Hinb9i7C3RKk2tBMLY1CH3L06pRFXbheJdGjQqo4+5b1D0n3JfLM+\nAmhct33RIomOjD+jTGG2dfVUr0nmRGrzQtb5OnLxrmsVA5fYqAW93cVQ2gzkBGHk\n7dgSqWxxEwyoAxLEHktMjBN6JsvkQuW0jJ21vnd7EQKBgQDek/2ri9AY1+jBpLQr\nXxuPzdIH1DvGjSpKnvMszfaVUuU9qin1ngHMufIcr0SnHIX87x67swKqXbdXbL7d\nI9HOZGZjrTton9tkZLlb72O4E8QXqEqWOJgAWcBCqENz/jPA2qoiT1D2jrB8gorW\ny7eUzNNxBu11U/JTJpNZwAfhSwKBgQDc3KMFnydSgx2/afmIo70VgjqRHXdSEleo\nQGGQ0WIx2SI8O2ElEF06SzBylRjlEhXJ+SL5bp7gPuJDe6EaXYbg1wet15fE7o2g\nbgsYF4hwVLF8yW4UW3LMhPnK70REi951bPH+zrrOtNd8AI2FBl2OAFtxRPSbyHVc\n2ThbfyuSCQKBgQCUpHKZOMLdhHtdrtffyyFF9ScZsWPGIoom0WYG+vl9GaIcf2KM\nNFxxU5DcFTSdAZB9rVdx9IeILRP+35HLb1tzIVu7n3n4UiGbNyUOv51x1klznyFI\nlzzzpvydx29crFv1pFJQnXWtYvd7/1YnQl80kWF3ry+v1kMTwsRPAM6CZwKBgQDR\nh0fpZ2nIr7cjBwjChoQ1yYyCay/t3pTme92To/DCVbpS5gptPS8UxIw7yBMMDrI5\nIG/7ruRu3XmOh9T4zE3PNHCGjgffvmkCECPaQUkhOFgBiJ80FOW9/VF1IrTjSsZL\nJIYYNEupGotriqK31qgetVwLA14EBJLC+RisROMy8QKBgCcBsZm4v9y84mLpHBUa\nFtmYg1qkrh2QpQOSkswPC+c9eVcH8o4qrluW2lJ1S/HfIKNNl+Vq5TxADwV4Fyi+\nIJX7ofePyT/UbiskLcFhefFwMRvYk/hq6LzgQmmMJ9ay1ogxrlzFBIsscHFTnDrg\n4Q4klAXIQ1mlyOAL6Vhmouyd\n-----END PRIVATE KEY-----\n",
+  "client_email": "content-summary@rugged-habitat-429717-d4.iam.gserviceaccount.com",
+  "client_id": "113947234259868978117",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/content-summary%40rugged-habitat-429717-d4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
