@@ -37,3 +37,7 @@ next-env.d.ts
 
 # Environment variables
 .env.local
+
+# Add to .gitignore
+ai-summarization-tool/app/config/mykey.json
+
